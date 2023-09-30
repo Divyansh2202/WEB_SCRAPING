@@ -1,6 +1,5 @@
 # WEB_SCRAPING
 Web scraping of acemicrimatic for each milling products.
-
 1. Web Scraping:
 (A) Tools and Libraries Used:
  Python
