@@ -1,0 +1,69 @@
+,param_1,param_2,model_name,x_travel,y_travel,z_travel
+0,Milling,Drill Tap Machining Centers,SPARK,300 , 250 , 250
+1,Milling,Drill Tap Machining Centers,SPARK XL,400 , 300 , 250
+2,Milling,Drill Tap Machining Centers,DTC-400,500 , 400 , 320
+3,Milling,Drill Tap Machining Centers,DTC-400 XL,500 , 400 , 320
+4,Milling,Drill Tap Machining Centers,DTC-400L XL,700 , 400 , 320
+5,Milling,Drill Tap Machining Centers,DTC-500L XL,1000 , 400 , 320
+6,Milling,Drill Tap Machining Centers,TCV-540,500 , 400 , 320
+7,Milling,Vertical Machining Centers,430 V,400 , 300 , 400
+8,Milling,Vertical Machining Centers,MCV-300,400 , 350 , 320
+9,Milling,Vertical Machining Centers,MCV-350,400 , 350 , 480
+10,Milling,Vertical Machining Centers,SUPER WINNER,500 , 400 , 500
+11,Milling,Vertical Machining Centers,MCV-400,600 , 450 , 500
+12,Milling,Vertical Machining Centers,MCV-400F,600 , 450 , 500
+13,Milling,Vertical Machining Centers,MCV-400 XL,600 , 450 , 500
+14,Milling,Vertical Machining Centers,MCV-450,800 , 450 , 500
+15,Milling,Vertical Machining Centers,MCV-450 XL,800 , 450 , 500
+16,Milling,Vertical Machining Centers,ACER,800 , 510 , 500
+17,Milling,Vertical Machining Centers,ACER XL,800 , 510 , 500
+18,Milling,Vertical Machining Centers,MCV-550L,1000 , 550 , 550
+19,Milling,Vertical Machining Centers,MCV-650,1020 , 650 , 600
+20,Milling,Vertical Machining Centers,MCV-700,1500 , 700 , 700
+21,Milling,Vertical Machining Centers,MCV-700N,1250 , 700 , 600
+22,Milling,Vertical Machining Centers,MCV-700N L,1500 , 700 , 600
+23,Milling,Vertical Machining Centers,MCV-800,2000 , 810 , 810
+24,Milling,Vertical Machining Centers,540V,500 , 400 , 450
+25,Milling,Vertical Machining Centers,730V,750 , 300 , 400
+26,Milling,Vertical Machining Centers,740V,700 , 400 , 460
+27,Milling,Vertical Machining Centers,740V DM,760 , 425 , 470
+28,Milling,Vertical Machining Centers,850V,800 , 510 , 500
+29,Milling,Vertical Machining Centers,1060V,1000 , 600 , 600
+30,Milling,Vertical Machining Centers,1260V,1250 , 600 , 600
+31,Milling,Vertical Machining Centers,1580V,1500 , 800 , 600
+32,Milling,Vertical Machining Centers,1690V,1630 , 910 , 810
+33,Milling,Vertical Machining Centers,ACER-50,800 , 510 , 500
+34,Milling,Vertical Machining Centers,MCV-550L-50,1000 , 550 , 550
+35,Milling,Vertical Machining Centers,MCV-650-50,1020 , 650 , 600
+36,Milling,Vertical Machining Centers,MCV-700N-50,1250 , 700 , 600
+37,Milling,Vertical Machining Centers,MCV-700N L-50,1500 , 700 , 600
+38,Milling,Vertical Machining Centers,MCV-700-50,1500 , 700 , 700
+39,Milling,Vertical Machining Centers,MCV-800-50,2000 , 810 , 810
+40,Milling,Twin Spindle VMC,Gemini Mini S,400 , 400 , 500
+41,Milling,Twin Spindle VMC,Gemini Mini L,600 , 450 , 500
+42,Milling,Twin Spindle VMC,Gemini Jr.,500 , 450 , 600
+43,Milling,Twin Spindle VMC,Gemini Jr. XL,500 , 450 , 600
+44,Milling,Twin Spindle VMC,CMV-350 TS,400 , 400 , 515
+45,Milling,Twin Spindle VMC,Gemini XL,600 , 450 , 600
+46,Milling,Twin Spindle VMC,Gemini 460 XL,NA,NA,NA
+47,Milling,Twin Spindle VMC,Gemini Max,750 , 500 , 600
+48,Milling,Special VMC,DM-800,1000 , 800 , 500
+49,Milling,Special VMC,LEADER-400XL,600 , 450 , 500
+50,Milling,Horizontal Machining Centers,PROTON,500 , 400 , 400
+51,Milling,Horizontal Machining Centers,HMC-400XL,600 , 500 , 500
+52,Milling,Horizontal Machining Centers,CMH-400,600 , 500 , 500
+53,Milling,Horizontal Machining Centers,CMH-400 XL,600 , 500 , 500
+54,Milling,Horizontal Machining Centers,CMH-500,800 , 600 , 600
+55,Milling,Horizontal Machining Centers,CMH-500-50,800 , 600 , 600
+56,Milling,Horizontal Machining Centers,CMH-500 XL,800 , 600 , 600
+57,Milling,Horizontal Machining Centers,CMH-500 XL-50,800 , 600 , 600
+58,Milling,Horizontal Machining Centers,MCH-400 XL,610 , 610 , 650
+59,Milling,Horizontal Machining Centers,MCH-500L,800 , 800 , 800
+60,Milling,Horizontal Machining Centers,MCH-500L-50,800 , 780 , 800
+61,Milling,Horizontal Machining Centers,MCH-630,1000 , 900 , 910
+62,Milling,Horizontal Machining Centers,MCH-800,1500 , 1200 , 1300
+63,Milling,Double Column,DC-2512,2700,1450,800 / 1000
+64,Milling,Double Column,DC-2516,2700,1700,800 / 1000
+65,Milling,Double Column,DC-3016,3200,1700,800 / 1000
+66,Milling,Double Column,DC-3020,3200,2200,800 / 1000
+67,Milling,Double Column,DC-4020,4200,2200,1000
